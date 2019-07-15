@@ -1,3 +1,5 @@
+Lizeth De La Cruz Piña
+
 # chatvoice
 
 A language for chatbots, uses ASR and TTS technology.
